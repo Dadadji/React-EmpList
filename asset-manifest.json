@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-EmpList/static/css/main.227ec646.chunk.css",
+    "main.js": "/React-EmpList/static/js/main.b90fc872.chunk.js",
+    "main.js.map": "/React-EmpList/static/js/main.b90fc872.chunk.js.map",
+    "runtime-main.js": "/React-EmpList/static/js/runtime-main.36a405bd.js",
+    "runtime-main.js.map": "/React-EmpList/static/js/runtime-main.36a405bd.js.map",
+    "static/js/2.98503eab.chunk.js": "/React-EmpList/static/js/2.98503eab.chunk.js",
+    "static/js/2.98503eab.chunk.js.map": "/React-EmpList/static/js/2.98503eab.chunk.js.map",
+    "static/js/3.d6a77a42.chunk.js": "/React-EmpList/static/js/3.d6a77a42.chunk.js",
+    "static/js/3.d6a77a42.chunk.js.map": "/React-EmpList/static/js/3.d6a77a42.chunk.js.map",
+    "index.html": "/React-EmpList/index.html",
+    "static/css/main.227ec646.chunk.css.map": "/React-EmpList/static/css/main.227ec646.chunk.css.map",
+    "static/js/2.98503eab.chunk.js.LICENSE.txt": "/React-EmpList/static/js/2.98503eab.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/React-EmpList/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36a405bd.js",
+    "static/js/2.98503eab.chunk.js",
+    "static/css/main.227ec646.chunk.css",
+    "static/js/main.b90fc872.chunk.js"
+  ]
+}
